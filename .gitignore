@@ -15,4 +15,4 @@ logs/*
 desktop.ini
 package-lock.json
 .history
-.env
+config.bat
